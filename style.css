@@ -1,0 +1,93 @@
+
+    
+body{
+  text-align:center;
+  background:linear-gradient(#FFAB40 20%, #FF9100 50%,#FF3D00 80%);
+  background-repeat:no-repeat;
+    scroll-behavior:smooth;
+    
+}
+hr{
+border-bottom-width:5px;
+border-color:black;
+}
+img{
+border-radius:50%;
+
+}
+img1{
+border-radius:50%;
+
+}
+.menu{
+ list-style: none;   
+    font-family: fantasy;
+    
+    float:top;
+    top:10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    
+}
+li{
+    float:left;
+    padding: 10px;
+}
+#myname{
+font-family:sans-serif;    
+    
+}
+p{
+    background-color: burlywood;
+}
+p1{
+    font-family:inherit;
+    font-size: 50px;
+}
+h1{
+    font-family:monospace;
+    font-size: 30px;
+}
+h2{
+    font-family:fantasy;
+    font-size: 30px;
+}
+hr{
+    width:150px;
+    
+}
+#cricketer{
+    width:350px;
+    
+}
+#My work{
+    width:250px;
+    
+}
+h3{
+    font-size: 30px;
+    
+}
+#img2{
+    height:400px;
+    width:400px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+h4{
+    font-size:35px;
+}
+h5{
+    
+    font-size:30px;
+}
+h6{
+    
+    font-size:30px;
+}
+p1{
+    
+    font-size:25px;
+    
+}
